@@ -1,0 +1,1 @@
+# AfriNova Backend (FastAPI + PostgreSQL)
